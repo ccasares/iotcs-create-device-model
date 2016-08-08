@@ -1,0 +1,23 @@
+{
+  "name": "iotcs-create-device-model",
+  "version": "1.0.0",
+  "description": "",
+  "main": "register_device_model.js",
+  "dependencies": {
+    "glob": "^7.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ccasares/iotcs-create-device-model.git"
+  },
+  "author": "Carlos Casares",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ccasares/iotcs-create-device-model/issues"
+  },
+  "homepage": "https://github.com/ccasares/iotcs-create-device-model#readme"
+}
